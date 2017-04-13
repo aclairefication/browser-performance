@@ -1,0 +1,18 @@
+{
+  "name": "pageload-performance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test-pageload-performance.js",
+  "scripts": {
+    "test": "ava --verbose"
+  },
+  "keywords": [],
+  "author": "cam",
+  "license": "ISC",
+  "devDependencies": {},
+  "devDependencies": {
+    "ava": "^0.16.0",
+    "chai": "^3.5.0",
+    "glance-webdriver": "^0.6.1"
+  }
+}
